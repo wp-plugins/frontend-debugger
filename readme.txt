@@ -34,6 +34,12 @@ This section describes how to install the plugin and get it working.
 1. Uppack the ZIP to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
+== Screenshots ==
+
+1. The Loop
+2. The Header.
+3. Included files.
+
 == Changelog ==
 
 = 0.3 =
