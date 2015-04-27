@@ -26,7 +26,7 @@ If you are not an administrators, add `?view-source` to the URL.
 
 Notice: This plugin uses regular expressions and `eval()` to get the current template apart.
 
-TODO: sidebar, search-form, other template parts.
+TODO: sidebar, search-form, other  template parts.
 
 The control panel contains:
 
